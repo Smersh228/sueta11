@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/artof1234/static/css/main.8b468832.css",
+    "main.js": "/artof1234/static/js/main.66b8ba3f.js",
+    "static/media/Menu.jpg": "/artof1234/static/media/Menu.fa1d0a7554392f96a521.jpg",
+    "static/media/tanks.jpg": "/artof1234/static/media/tanks.805553a96516c6437d67.jpg",
+    "static/media/tanks2.jpg": "/artof1234/static/media/tanks2.fcc82983a6fd0d27553f.jpg",
+    "static/media/les.png": "/artof1234/static/media/les.5b0dd0a8f2bfb7e26e35.png",
+    "static/media/field2.png": "/artof1234/static/media/field2.988b3230fd09aa05a05e.png",
+    "static/media/fieldBust.png": "/artof1234/static/media/fieldBust.84cdd656680b9652a52a.png",
+    "static/media/test1.png": "/artof1234/static/media/test1.8b616a0493ea91b4ae52.png",
+    "static/media/field3.png": "/artof1234/static/media/field3.e007750b325980ef4a69.png",
+    "index.html": "/artof1234/index.html",
+    "main.8b468832.css.map": "/artof1234/static/css/main.8b468832.css.map",
+    "main.66b8ba3f.js.map": "/artof1234/static/js/main.66b8ba3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b468832.css",
+    "static/js/main.66b8ba3f.js"
+  ]
+}
